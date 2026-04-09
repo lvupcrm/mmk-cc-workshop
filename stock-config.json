@@ -22,12 +22,12 @@
   },
   "notifications": {
     "slack": {
-      "channel_id": "",
-      "enabled": false
+      "channel_id": "C0ARQGSGK8E",
+      "enabled": true
     },
     "notion": {
-      "database_id": "",
-      "enabled": false
+      "database_id": "80c9a35c78594669b4b0ade9b2202b00",
+      "enabled": true
     }
   }
 }
